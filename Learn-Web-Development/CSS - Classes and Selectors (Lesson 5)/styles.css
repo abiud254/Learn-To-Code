@@ -1,0 +1,43 @@
+/* p.info {
+   color: red;
+}
+p.extra {
+   color: #ebeb08;
+}
+p.extra.villains {
+   border: 1px dashed #ebeb08;
+}
+#content {
+   background-color: #151555;
+   padding: 20px;
+} */
+/* div .info {
+   color: purple;
+} */
+/* a[href*="dc"] {
+   background-color: cyan;
+   color: red;
+   text-decoration: none;
+   font-weight: bold;
+   text-transform: uppercase;
+}
+a[href$=".net"] {
+   color: white;
+   background: red;
+   border: 2px solid blue;
+} */
+div {
+   color: lightcoral;
+   border: 3px solid gray;
+   padding: 20px;
+   margin: 40px;
+   font-weight: bold;
+}
+div p {
+   border: inherit;
+   margin: inherit;
+   color: crimson;
+}
+p {
+   color: orange;
+}
