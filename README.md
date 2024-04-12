@@ -7,3 +7,4 @@ Lesson files for my code learning journey.
 - Lesson 4: Introduction to CSS.
 	- Lesson 4.1: Block-level and Inline-level Elements.
 - Lesson 5: Classes and Selectors.
+- Lesson 6: HTML 5 Semantics
