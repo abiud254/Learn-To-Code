@@ -12,3 +12,4 @@ Lesson files for my code learning journey.
 - Lesson 6-7: HTML 5 Semantics
 - Lesson 8: CSS Layout & Positioning
 - Lesson 9: Pseudo Classes and Elements
+- Lesson 10: Media Queries and Responsive Design
