@@ -17,3 +17,5 @@ Lesson files for my code learning journey.
 - Lesson 10: Media Queries and Responsive Design
 
 ### JavaScript
+
+- Lesson 1: Syntax Basics & Types
