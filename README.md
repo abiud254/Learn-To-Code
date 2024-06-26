@@ -2,7 +2,9 @@
 
 Lesson files for my code learning journey.
 
-## Learn-Web-Development (HTML and CSS)
+## Learn-Web-Development (HTML, CSS & JavaScript)
+
+### HTML and CSS Basics
 
 - Lesson 1-2: Introduction to HTML tags.
 - Lesson 3: Forms in HTML.
@@ -13,3 +15,5 @@ Lesson files for my code learning journey.
 - Lesson 8: CSS Layout & Positioning
 - Lesson 9: Pseudo Classes and Elements
 - Lesson 10: Media Queries and Responsive Design
+
+### JavaScript
