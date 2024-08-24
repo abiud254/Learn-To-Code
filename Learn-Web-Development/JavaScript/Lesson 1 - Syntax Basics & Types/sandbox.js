@@ -7,4 +7,3 @@ let score = "100";
 // let result = String(50);
 // let result = Boolean(0);
 let result = Boolean("");
-console.log(result, typeof result);
