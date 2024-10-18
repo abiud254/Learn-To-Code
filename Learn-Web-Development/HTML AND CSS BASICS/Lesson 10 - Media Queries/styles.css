@@ -72,6 +72,7 @@ nav li a {
 }
 nav li a.join {
   color: #f63232;
+  text-decoration: underline;
 }
 main {
   max-width: 100%;
@@ -128,7 +129,7 @@ footer {
 /* Pseudo Classes */
 
 nav li a:hover {
-  text-decoration: underline;
+  color: #f63232;
 }
 .images li:hover {
   position: relative;
