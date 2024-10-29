@@ -39,3 +39,15 @@ Lesson files for my code learning journey.
 ### JavaScript
 
 - Lesson 1: Syntax Basics & Types
+
+---
+
+# Learn-Python (Python 3 & Django)
+
+### Python
+
+- Lesson 1 - Python Basics
+- Lesson 2 - Methods & Functions
+- Lesson 3 - Containers
+- Lesson 4 - Control Flow
+- Lesson 5 - Functions
